@@ -6,5 +6,5 @@ https://user-images.githubusercontent.com/109673101/196232819-43da3b37-69f9-48ba
 
 https://user-images.githubusercontent.com/109673101/196235098-bbfa5d33-e691-4018-9dd1-c277f753ce3d.mp4
 
-<h1>3-NodeJS qnday ishlaydi</h1>
+
 
